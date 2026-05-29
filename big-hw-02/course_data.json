@@ -1,0 +1,262 @@
+[
+  {
+    "student_id": 1,
+    "name": "Альтин Амир",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 0,
+      "hw-02": 10
+    },
+    "credit_score": 47
+  },
+  {
+    "student_id": 2,
+    "name": "Архипова Анна",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 0
+  },
+  {
+    "student_id": 3,
+    "name": "Белавин Сергей",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 43
+  },
+  {
+    "student_id": 4,
+    "name": "Бородулина Анастасия",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 5,
+    "name": "Володин Кирилл",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 6,
+    "name": "Гавриляк Игорь",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 0
+  },
+  {
+    "student_id": 7,
+    "name": "Гамаюнов Михаил",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 8,
+    "name": "Главатских Матвей",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 47
+  },
+  {
+    "student_id": 9,
+    "name": "Давыдова Юлия",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 10,
+    "name": "Елькова Мария",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 49
+  },
+  {
+    "student_id": 11,
+    "name": "Жермоленко Захар",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 12,
+    "name": "Зеленкова Дарина",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 8
+    },
+    "credit_score": 42
+  },
+  {
+    "student_id": 13,
+    "name": "Иванова Анастасия",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 49
+  },
+  {
+    "student_id": 14,
+    "name": "Игнатов Платон",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 15,
+    "name": "Клишин Данил",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 0,
+      "hw-02": 0
+    },
+    "credit_score": 0
+  },
+  {
+    "student_id": 16,
+    "name": "Комогорцев Василий",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 48
+  },
+  {
+    "student_id": 17,
+    "name": "Коренев Илья",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 0
+  },
+  {
+    "student_id": 18,
+    "name": "Мамарасулов Бобур",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 0
+  },
+  {
+    "student_id": 19,
+    "name": "Молчанова Екатерина",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 0,
+      "hw-02": 0
+    },
+    "credit_score": 48
+  },
+  {
+    "student_id": 20,
+    "name": "Некрасова Софья",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 21,
+    "name": "Новокрещин Максим",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 20
+  },
+  {
+    "student_id": 22,
+    "name": "Пушкарев Николай",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 50
+  },
+  {
+    "student_id": 23,
+    "name": "Свиридов Александр",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 0,
+      "hw-02": 0
+    },
+    "credit_score": 0
+  },
+  {
+    "student_id": 24,
+    "name": "Степаненкова Мария",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 0
+  },
+  {
+    "student_id": 25,
+    "name": "Хоменко Михаил",
+    "group_id": "25137",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 10
+    },
+    "credit_score": 35
+  },
+  {
+    "student_id": 26,
+    "name": "Чемоданов Егор",
+    "group_id": "25144",
+    "scores": {
+      "hw-01": 10,
+      "hw-02": 0
+    },
+    "credit_score": 48
+  }
+]
